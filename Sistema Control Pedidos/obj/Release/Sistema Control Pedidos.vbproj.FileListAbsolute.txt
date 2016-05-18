@@ -1,0 +1,189 @@
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.pdb
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.xml
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\ResolveAssemblyReference.cache
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Mesas.resources
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Pedidos.resources
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Productos.resources
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Resources.resources
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.vbproj.GenerateResource.Cache
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.LoginForm.resources
+E:\Allan\Trabajos Programacion\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empleados.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empleados.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Facturas.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Mesas.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Pedidos.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Productos.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Usuarios.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.LoginForm.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Resources.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.vbproj.GenerateResource.Cache
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empleados.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Facturas.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Mesas.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Pedidos.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Productos.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Usuarios.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.LoginForm.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Resources.resources
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.vbproj.GenerateResource.Cache
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator.José-PC\Desktop\Sistema Control Pedidos1\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empleados.resources
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Facturas.resources
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Mesas.resources
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Pedidos.resources
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Productos.resources
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Usuarios.resources
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.LoginForm.resources
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Resources.resources
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.vbproj.GenerateResource.Cache
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empleados.resources
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Facturas.resources
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Mesas.resources
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Pedidos.resources
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Productos.resources
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Usuarios.resources
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.LoginForm.resources
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Resources.resources
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.vbproj.GenerateResource.Cache
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator.José-PC\Downloads\Sistema Control Pedidos (1)\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator.DarkLS-PC\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe.config
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe.config
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.xml
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empleados.resources
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Facturas.resources
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Mesas.resources
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Pedidos.resources
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Productos.resources
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Usuarios.resources
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.LoginForm.resources
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Resources.resources
+C:\Users\Administrador\Downloads\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe.config
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empleados.resources
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Facturas.resources
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Mesas.resources
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Pedidos.resources
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Productos.resources
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Usuarios.resources
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.LoginForm.resources
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Resources.resources
+C:\Users\Administrator\Desktop\Sistema Control Pedidos\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe.config
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.xml
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empleados.resources
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Facturas.resources
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Mesas.resources
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Pedidos.resources
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Productos.resources
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Usuarios.resources
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.LoginForm.resources
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Resources.resources
+C:\Users\Administrador\Downloads\CHUPAPIJA\Sistema Control Pedidos\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe.config
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empleados.resources
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Facturas.resources
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Mesas.resources
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Pedidos.resources
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Productos.resources
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Usuarios.resources
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.LoginForm.resources
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Resources.resources
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empresa.resources
+C:\Users\Administrador\Downloads\SCP_250313_00\SCP_250313_00\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe.config
+C:\Users\Administrador\Downloads\SCP_250313_00\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrador\Downloads\SCP_250313_00\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrador\Downloads\SCP_250313_00\SCP_250313_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe.config
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empleados.resources
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empresa.resources
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Facturas.resources
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Mesas.resources
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Pedidos.resources
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Productos.resources
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Usuarios.resources
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.LoginForm.resources
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Resources.resources
+C:\Users\Administrator\Desktop\SCP_250313_01\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe.config
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.pdb
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.xml
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empleados.resources
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Empresa.resources
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Facturas.resources
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Mesas.resources
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Pedidos.resources
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Productos.resources
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Frm_Usuarios.resources
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.LoginForm.resources
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema_Control_Pedidos.Resources.resources
+C:\Users\Administrator\Desktop\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Downloads\SCP_030413_00\Sistema Control Pedidos\bin\Release\Sistema Control Pedidos.exe.config
+C:\Users\Administrador\Downloads\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.exe
+C:\Users\Administrador\Downloads\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.xml
+C:\Users\Administrador\Downloads\SCP_030413_00\Sistema Control Pedidos\obj\Release\Sistema Control Pedidos.pdb
