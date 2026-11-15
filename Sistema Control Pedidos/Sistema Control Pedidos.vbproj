@@ -59,12 +59,12 @@
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
-    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
-    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
-    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
-    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
-    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"  Condition="'$(EnableLegacyCrystalReports)' == 'true'"/>
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"  Condition="'$(EnableLegacyCrystalReports)' == 'true'"/>
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"  Condition="'$(EnableLegacyCrystalReports)' == 'true'"/>
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"  Condition="'$(EnableLegacyCrystalReports)' == 'true'"/>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"  Condition="'$(EnableLegacyCrystalReports)' == 'true'"/>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"  Condition="'$(EnableLegacyCrystalReports)' == 'true'"/>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
@@ -150,6 +150,7 @@
     <Compile Include="Formularios\LoginForm.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Modulos\ImpresionLocal.vb" />
     <Compile Include="Modulos\Base_de_Datos.vb" />
     <Compile Include="Modulos\Objetos_Publicos.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -167,19 +168,19 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Reportes\Crt_facturas.vb">
+    <Compile Include="Reportes\Crt_facturas.vb" Condition="'$(EnableLegacyCrystalReports)' == 'true'">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Crt_facturas.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Crt_pedidos.vb">
+    <Compile Include="Reportes\Crt_pedidos.vb" Condition="'$(EnableLegacyCrystalReports)' == 'true'">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Crt_pedidos.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Reportes\Crt_pedidos_llevar.vb">
+    <Compile Include="Reportes\Crt_pedidos_llevar.vb" Condition="'$(EnableLegacyCrystalReports)' == 'true'">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Crt_pedidos_llevar.rpt</DependentUpon>

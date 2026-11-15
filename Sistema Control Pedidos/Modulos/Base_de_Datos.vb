@@ -1,4 +1,4 @@
-﻿Imports System.Text
+Imports System.Text
 Imports System.IO
 Module Base_de_Datos
     Private Declare Function SQLConfigDataSource Lib "ODBCCP32.DLL" (ByVal hwndParent As Int32, ByVal fRequest As Int32, ByVal lpszDriver As String, ByVal lpszAttributes As StringBuilder) As Int32
@@ -1075,46 +1075,38 @@ Module Base_de_Datos
         Return Existe
         Cls_Espacio_Trabajo.Close()
     End Function
+    Private Function DatosReporte(ByVal tabla As String, ByVal campo As String, ByVal numero As Integer) As DataTable
+        Conectar()
+        Dim datos As New DataTable()
+        Using conexion As New Odbc.OdbcConnection(Cls_Espacio_Trabajo.ConnectionString)
+            Using comando As New Odbc.OdbcCommand("SELECT * FROM " & tabla & " WHERE " & campo & " = ?", conexion)
+                comando.Parameters.AddWithValue("numero", numero)
+                Using adaptador As New Odbc.OdbcDataAdapter(comando)
+                    adaptador.Fill(datos)
+                End Using
+            End Using
+        End Using
+        Return datos
+    End Function
+
     Public Sub Imprimir_Factura(ByVal num_factura As Integer, ByVal cliente As String, ByVal emp As String, ByVal subt As Integer, ByVal des As Integer, ByVal tot As Integer, ByVal ped As Integer)
-        Dim SQL_Balance As String
-        Dim Reporte As New Crt_facturas
-        SQL_Balance = "{Detalle_Factura.NumeroFactura}=" & num_factura
-        Reporte.RecordSelectionFormula = SQL_Balance
-        Reporte.SetParameterValue("Nombre", Empresa.Nombre)
-        Reporte.SetParameterValue("Direccion", Empresa.Direccion)
-        Reporte.SetParameterValue("Telefono", Empresa.Telefono)
-        Reporte.SetParameterValue("Pedido", ped)
-        Reporte.SetParameterValue("Cliente", cliente)
-        Reporte.SetParameterValue("Empleado", emp)
-        Reporte.SetParameterValue("Subtotal", subt)
-        Reporte.SetParameterValue("Descuento", des)
-        Reporte.SetParameterValue("Total", tot)
-        Reporte.PrintToPrinter(1, False, 0, 0)
+        Dim encabezado As String() = {Empresa.Nombre, Empresa.Direccion, Empresa.Telefono,
+            "Pedido: " & ped, "Cliente: " & cliente, "Empleado: " & emp,
+            "Subtotal: " & subt, "Descuento: " & des, "Total: " & tot}
+        ImpresionLocal.Mostrar("Factura " & num_factura, encabezado, DatosReporte("Detalle_Factura", "NumeroFactura", num_factura))
     End Sub
+
     Public Sub Imprimir_Pedido(ByVal num_factura As Integer, ByVal mesa As String, ByVal cliente As String, ByVal emp As String)
-        Dim SQL_Balance As String
-        Dim Reporte As New Crt_pedidos
-        SQL_Balance = "{Desc_Pedido.ped_numero}=" & num_factura
-        Reporte.RecordSelectionFormula = SQL_Balance
-        Reporte.SetParameterValue("Nombre", Empresa.Nombre)
-        Reporte.SetParameterValue("Telefono", "Pedido N° " & num_factura)
-        Reporte.SetParameterValue("Cliente", cliente)
-        Reporte.SetParameterValue("Empleado", emp)
-        Reporte.SetParameterValue("Subtotal", mesa)
-        Reporte.SetParameterValue("Total", "Servir")
-        Reporte.PrintToPrinter(1, False, 0, 0)
+        Dim encabezado As String() = {Empresa.Nombre, "Pedido: " & num_factura, "Mesa: " & mesa,
+            "Cliente: " & cliente, "Empleado: " & emp, "Servir"}
+        ImpresionLocal.Mostrar("Pedido " & num_factura, encabezado, DatosReporte("Desc_Pedido", "ped_numero", num_factura))
     End Sub
+
     Public Sub Imprimir_Pedido_llevar(ByVal num_factura As Integer, ByVal emp As String)
-        Dim SQL_Balance As String
-        Dim Reporte As New Crt_pedidos_llevar
-        SQL_Balance = "{Desc_Pedido.ped_numero}=" & num_factura
-        Reporte.RecordSelectionFormula = SQL_Balance
-        Reporte.SetParameterValue("Nombre", Empresa.Nombre)
-        Reporte.SetParameterValue("Telefono", "Pedido N° " & num_factura)
-        Reporte.SetParameterValue("Empleado", emp)
-        Reporte.SetParameterValue("Total", "Llevar")
-        Reporte.PrintToPrinter(1, False, 0, 0)
+        Dim encabezado As String() = {Empresa.Nombre, "Pedido: " & num_factura, "Empleado: " & emp, "Llevar"}
+        ImpresionLocal.Mostrar("Pedido para llevar " & num_factura, encabezado, DatosReporte("Desc_Pedido", "ped_numero", num_factura))
     End Sub
+
     Public Function Cargar_Pedidos_Fractura() As Long
         Conectar()
         If Error_BD = True Then Error_BD = False : Exit Function
