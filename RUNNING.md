@@ -51,3 +51,11 @@ Alcance pendiente:
 - El formato visual de los comprobantes cambia respecto a los RPT originales. Se necesita configurar la conexión ODBC y la base histórica para comprobar facturación, pedidos e impresión con datos reales.
 
 <!-- build-repairs-20261115:end -->
+
+<!-- improvements-20261119:start -->
+## Mejoras y verificación — 2026-11-19 (Cadena ODBC configurable y mejoras de impresión local)
+
+- Añadida `Base_de_Datos.ObtenerCadenaConexion()` con soporte para `SCP_ODBC_CONNECTION_STRING` manteniendo `DSN=SCPBD` por defecto.
+- Reforzado `ImpresionLocal` ante encabezados o tablas vacías (`Nothing`/0 filas) y añadido `CalcularTotalColumna` para totales numéricos seguros.
+- Validación: compilación MSBuild VB.NET y 6 aserciones de generación de comprobantes Unicode, tablas vacías, totales y configuración ODBC.
+<!-- improvements-20261119:end -->

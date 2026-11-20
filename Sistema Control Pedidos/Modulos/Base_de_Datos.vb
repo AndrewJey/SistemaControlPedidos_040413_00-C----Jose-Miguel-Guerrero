@@ -1,6 +1,6 @@
 Imports System.Text
 Imports System.IO
-Module Base_de_Datos
+Public Module Base_de_Datos
     Private Declare Function SQLConfigDataSource Lib "ODBCCP32.DLL" (ByVal hwndParent As Int32, ByVal fRequest As Int32, ByVal lpszDriver As String, ByVal lpszAttributes As StringBuilder) As Int32
     Private Cls_Conexion As Boolean
     Private Cls_Espacio_Trabajo As Odbc.OdbcConnection
@@ -14,29 +14,39 @@ Module Base_de_Datos
     Private Cls_Espacio_Trabajo2 As Odbc.OdbcConnection
     Private Cls_Ejecutar_comando2 As Odbc.OdbcCommand
     Private Cls_Leer_Consulta2 As Odbc.OdbcDataReader
+    Public Function ObtenerCadenaConexion() As String
+        Dim envConn As String = Environment.GetEnvironmentVariable("SCP_ODBC_CONNECTION_STRING")
+        If Not String.IsNullOrWhiteSpace(envConn) Then
+            Return envConn.Trim()
+        End If
+        Return "DSN=SCPBD;UID=;Pwd=;"
+    End Function
+
     Private Sub Conectar2()
         Try
-            Cls_Espacio_Trabajo2 = New Odbc.OdbcConnection("DSN=SCPBD;UID=;Pwd=;")
+            Cls_Espacio_Trabajo2 = New Odbc.OdbcConnection(ObtenerCadenaConexion())
             Cls_Espacio_Trabajo2.Open()
             Cls_Espacio_Trabajo2.Close()
+            Error_BD = False
         Catch
             Err.Clear()
-            Notificacion("¡Error de Comunicacion!", "¡Ha ocurrido un error al intentar cominicarse con la base de datos!" & _
+            Notificacion("¡Error de Comunicación!", "¡Ha ocurrido un error al intentar comunicarse con la base de datos!" & _
                                  Chr(13) & _
-                                 "Consulte un administrador.", 1, 3000)
+                                 "Consulte a un administrador.", 1, 3000)
             Error_BD = True
         End Try
     End Sub
     Private Sub Conectar()
         Try
-            Cls_Espacio_Trabajo = New Odbc.OdbcConnection("DSN=SCPBD;UID=;Pwd=;")
+            Cls_Espacio_Trabajo = New Odbc.OdbcConnection(ObtenerCadenaConexion())
             Cls_Espacio_Trabajo.Open()
             Cls_Espacio_Trabajo.Close()
+            Error_BD = False
         Catch
             Err.Clear()
-            Notificacion("¡Error de Comunicacion!", "¡Ha ocurrido un error al intentar cominicarse con la base de datos!" & _
+            Notificacion("¡Error de Comunicación!", "¡Ha ocurrido un error al intentar comunicarse con la base de datos!" & _
                                  Chr(13) & _
-                                 "Consulte un administrador.", 1, 3000)
+                                 "Consulte a un administrador.", 1, 3000)
             Error_BD = True
         End Try
     End Sub
